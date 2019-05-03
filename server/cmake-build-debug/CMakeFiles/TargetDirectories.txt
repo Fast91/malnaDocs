@@ -1,0 +1,3 @@
+/home/fast/CLionProjects/malnaDocs/server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fast/CLionProjects/malnaDocs/server/cmake-build-debug/CMakeFiles/server.dir
+/home/fast/CLionProjects/malnaDocs/server/cmake-build-debug/CMakeFiles/edit_cache.dir
